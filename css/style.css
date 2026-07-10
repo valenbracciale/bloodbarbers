@@ -159,6 +159,8 @@ button {
 
 .btn .gothic-accent {
   color: inherit;
+  font-size: 1.6em;
+  transform: translateY(-0.06em);
 }
 
 .title-divider {
@@ -282,7 +284,7 @@ button {
 }
 
 .logo-img-header {
-  height: 54px;
+  height: 84.4px;
 }
 
 .logo-img-footer {
@@ -563,6 +565,13 @@ section {
 .diff-icon svg {
   width: 100%;
   height: 100%;
+}
+
+.diff-icon img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
 }
 
 .diff-card h3 {
@@ -931,7 +940,7 @@ section {
   }
 
   .logo-img-header {
-    height: 34px;
+    height: 53.1px;
   }
 
   .nav-actions {
