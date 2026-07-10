@@ -597,6 +597,7 @@ section {
   justify-content: center;
   flex-wrap: wrap;
   gap: 40px;
+  margin-top: 56px;
   margin-bottom: 48px;
   padding-bottom: 48px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
