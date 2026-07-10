@@ -287,6 +287,12 @@ button {
   height: 84.4px;
 }
 
+@media (min-width: 861px) {
+  .logo-img-header {
+    height: 56px;
+  }
+}
+
 .logo-img-footer {
   height: 40px;
 }
